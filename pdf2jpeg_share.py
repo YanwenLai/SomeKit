@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1udlSEnyTPDOjm37YCJYmu5uAPsN9Xwx9
 """
 
-!pip install pypdfium2
-!pip install tqdm
+# !pip install pypdfium2
+# !pip install tqdm
 
 from time import sleep
 from tqdm import tqdm, trange
